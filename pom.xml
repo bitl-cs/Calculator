@@ -41,7 +41,7 @@
         </dependency>
     </dependencies>
     <build>
-        <sourceDirectory>src/calculator</sourceDirectory>
+        <sourceDirectory>src/main</sourceDirectory>
         <testSourceDirectory>src/tests</testSourceDirectory>
         <plugins>
             <plugin>
